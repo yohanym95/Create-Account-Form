@@ -1,6 +1,6 @@
 # Create Account Form
 
-USE JAVA SWING AND MY SQL FOR THIS.
+USE JAVA SWING AND MYSQL FOR THIS.
 
 
 this create account page contain name,password and email.
@@ -22,5 +22,4 @@ password ::
           
           
           
- And this page create from java and my sql.and after this page also have a record book page it contain subject's marks and average for examination.
-
+ And this page create from java and mysql.
