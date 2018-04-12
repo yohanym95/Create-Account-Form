@@ -2,6 +2,9 @@
 
 USE JAVA SWING AND MYSQL FOR THIS.
 
+Front end - Java Swing
+Back end - MYSQL
+
 
 this create account page contain name,password and email.
 
